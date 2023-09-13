@@ -16,8 +16,6 @@ declare module 'vue' {
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
     SkillsComponent: typeof import('./components/SkillsComponent.vue')['default']
-    TailWindLogo: typeof import('./components/logos/TailWindLogo.vue')['default']
-    TypeScript: typeof import('./components/logos/TypeScript.vue')['default']
     TypeScriptLogo: typeof import('./components/logos/TypeScriptLogo.vue')['default']
     UserCard: typeof import('./components/UserCard.vue')['default']
     VueLogo: typeof import('./components/logos/VueLogo.vue')['default']

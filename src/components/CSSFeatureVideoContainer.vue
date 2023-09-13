@@ -5,6 +5,6 @@
       Долго не мог придумать какую фишку CSS показать в этом видео,решил
       остановиться на псевдо-классе "nth-child". Приятного просмотра!
     </p>
-    <video src="/video/nth-child.mkv" controls></video>
+    <video src="../assets/video/nth-child.mp4" controls></video>
   </div>
 </template>
